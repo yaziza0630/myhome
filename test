@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World Popup</title>
+  <script>
+    window.onload = function() {
+      alert('hello world');
+    };
+  </script>
+</head>
+<body>
+  <!-- 페이지 내용 -->
+</body>
+</html>
